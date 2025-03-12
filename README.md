@@ -1,4 +1,5 @@
 Student Progression Analysis 📊
+
 This Python program helps in analyzing and visualizing student progression based on credits obtained in different categories: Pass, Defer, and Fail credits. It calculates and displays the outcomes such as Progress, Trailer, Retriever, or Exclude, followed by a graphical representation of the results using a histogram.
 
 Features ✨
